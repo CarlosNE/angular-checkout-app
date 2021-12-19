@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const environment = {\n  production: true\n};\n/*\nCopyright Google LLC. All Rights Reserved.\nUse of this source code is governed by an MIT-style license that\ncan be found in the LICENSE file at https://angular.io/license\n*/","map":null,"metadata":{},"sourceType":"module"}
